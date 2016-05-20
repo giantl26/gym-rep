@@ -43,7 +43,8 @@
 				<br/>
 				<button type="submit">Iniciar Sesión</button>
 				<br/>
-				<a href="#"><p class="small">Copyright @ BarTripzZ</p></a>
+				
+				
 				<br>
     			<%=mensaje%>
 			</div>
